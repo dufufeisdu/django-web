@@ -1,0 +1,39 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ALLOWED_HOSTS	../mysite/mysite/settings.py	/^ALLOWED_HOSTS = []$/;"	kind:variable	line:28
+AUTH_PASSWORD_VALIDATORS	../mysite/mysite/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	kind:variable	line:87
+BASE_DIR	../mysite/mysite/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:16
+DATABASES	../mysite/mysite/settings.py	/^DATABASES = {$/;"	kind:variable	line:76
+DEBUG	../mysite/mysite/settings.py	/^DEBUG = True$/;"	kind:variable	line:26
+INSTALLED_APPS	../mysite/mysite/settings.py	/^INSTALLED_APPS = [$/;"	kind:variable	line:33
+LANGUAGE_CODE	../mysite/mysite/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	kind:variable	line:106
+MIDDLEWARE	../mysite/mysite/settings.py	/^MIDDLEWARE = [$/;"	kind:variable	line:42
+ROOT_URLCONF	../mysite/mysite/settings.py	/^ROOT_URLCONF = 'mysite.urls'$/;"	kind:variable	line:52
+SECRET_KEY	../mysite/mysite/settings.py	/^SECRET_KEY = 'wpg+6-o+9zt_ofup0i*#z1*ubilvin9wjom*un-9-4))#7(o=1'$/;"	kind:variable	line:23
+STATIC_URL	../mysite/mysite/settings.py	/^STATIC_URL = '\/static\/'$/;"	kind:variable	line:120
+TEMPLATES	../mysite/mysite/settings.py	/^TEMPLATES = [$/;"	kind:variable	line:54
+TIME_ZONE	../mysite/mysite/settings.py	/^TIME_ZONE = 'UTC'$/;"	kind:variable	line:108
+USE_I18N	../mysite/mysite/settings.py	/^USE_I18N = True$/;"	kind:variable	line:110
+USE_L10N	../mysite/mysite/settings.py	/^USE_L10N = True$/;"	kind:variable	line:112
+USE_TZ	../mysite/mysite/settings.py	/^USE_TZ = True$/;"	kind:variable	line:114
+WSGI_APPLICATION	../mysite/mysite/settings.py	/^WSGI_APPLICATION = 'mysite.wsgi.application'$/;"	kind:variable	line:70
+__init__.py	../mysite/mysite/__init__.py	1;"	kind:file	line:1
+admin	../mysite/mysite/urls.py	/^from django.contrib import admin$/;"	kind:namespace	line:17
+application	../mysite/mysite/wsgi.py	/^application = get_wsgi_application()$/;"	kind:variable	line:16
+django	../mysite/manage.py	/^            import django$/;"	kind:namespace	line:14
+execute_from_command_line	../mysite/manage.py	/^        from django.core.management import execute_from_command_line$/;"	kind:namespace	line:8
+get_wsgi_application	../mysite/mysite/wsgi.py	/^from django.core.wsgi import get_wsgi_application$/;"	kind:namespace	line:12
+manage.py	../mysite/manage.py	1;"	kind:file	line:1
+os	../mysite/manage.py	/^import os$/;"	kind:namespace	line:2
+os	../mysite/mysite/settings.py	/^import os$/;"	kind:namespace	line:13
+os	../mysite/mysite/wsgi.py	/^import os$/;"	kind:namespace	line:10
+settings.py	../mysite/mysite/settings.py	1;"	kind:file	line:1
+sys	../mysite/manage.py	/^import sys$/;"	kind:namespace	line:3
+url	../mysite/mysite/urls.py	/^from django.conf.urls import url$/;"	kind:namespace	line:16
+urlpatterns	../mysite/mysite/urls.py	/^urlpatterns = [$/;"	kind:variable	line:19
+urls.py	../mysite/mysite/urls.py	1;"	kind:file	line:1
+wsgi.py	../mysite/mysite/wsgi.py	1;"	kind:file	line:1
